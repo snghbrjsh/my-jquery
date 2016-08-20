@@ -38,5 +38,5 @@ define( [
 
 return jQuery;
 // adding a comment
-
+// another commit
 } );
