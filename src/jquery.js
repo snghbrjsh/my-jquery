@@ -37,5 +37,6 @@ define( [
 "use strict";
 
 return jQuery;
+// adding a comment
 
 } );
